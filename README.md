@@ -21,3 +21,6 @@ Usage:
 Why this exists:
 SEO, security, and infrastructure overlap.
 I observe and verify digital behavior directly from the CLI instead of relying on plugins or dashboards.
+
+For site-check.sh
+Input domain only. Do not include protocol.
