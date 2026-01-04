@@ -1,5 +1,5 @@
 # bash-scripts
-Linux CLI Bash scripts for SEO and cybersecurity
+Linux CLI Bash scripts for technical SEO, cybersecurity, and web engineering. 
 
 # CLI SEO & Infrastructure Tools
 
